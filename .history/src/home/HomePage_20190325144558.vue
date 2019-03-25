@@ -52,3 +52,9 @@ export default {
   }
 };
 </script>
+
+<style>
+.Jumborton {
+  background-color: #fa9f61;
+}
+</style>

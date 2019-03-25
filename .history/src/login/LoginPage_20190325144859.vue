@@ -79,8 +79,7 @@ export default {
 };
 </script>
 
-<!-- KHW  make it sorta Hexly colored -->
-<style></style>
+<style>
 .jumbotron {
   background-color: #fa9f61;
   color: #ff4a9d;
